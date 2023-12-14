@@ -3,7 +3,87 @@ guid: 21a9c9d2bf7af6243ab66a5a8a90e1cd
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OPTIMIG450
+    second: {fileID: 2100000, guid: 94e04fb02313f924b92e0f618af2e426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doorwall
+    second: {fileID: 2100000, guid: bbe7d103d0422ee43ae1fa05394bf787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drawer holder
+    second: {fileID: 2100000, guid: e693359fe252dbf47be917f53ff3f79f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drawers
+    second: {fileID: 2100000, guid: 38d49f2272ca7df4da38406f8b20dbaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drum
+    second: {fileID: 2100000, guid: 3a933a6004f47af489c24a0190176c98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 9ac41d538bcb23849a92df4523c7293c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garage door
+    second: {fileID: 2100000, guid: d88bab2aea0f5bb4d924f15d8f2ae8de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gate button holder
+    second: {fileID: 2100000, guid: 76d197fe2c8455c4489601b523a06450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iron table top
+    second: {fileID: 2100000, guid: 716915105bb32a049b06ef77baf5a611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic
+    second: {fileID: 2100000, guid: 07cb514c79c4f4940b3c81db8460a956, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_noise
+    second: {fileID: 2100000, guid: b9fc7283ed99a2847abc7e05a6f0ae5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shelf
+    second: {fileID: 2100000, guid: 0cb43706c76ae4141a226efad89b3459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table
+    second: {fileID: 2100000, guid: 1b13d74003f3853449c8da515e80738a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls
+    second: {fileID: 2100000, guid: eb2dedfed695a104eacfb2dc66512780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white rust metal
+    second: {fileID: 2100000, guid: 3d8b805bdbb5b5f488923500b5aae129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_177148027
+    second: {fileID: 2100000, guid: d2b7648ff03e19f44a254d8fa2a5166d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

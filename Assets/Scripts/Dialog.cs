@@ -4,8 +4,6 @@ using System.Collections;
 using TMPro;
 
 using UnityEngine;
-
-
 public class Dialog : MonoBehaviour
 {
     public TextMeshProUGUI textComponent;
@@ -42,7 +40,6 @@ public class Dialog : MonoBehaviour
                 textComponent.text += c;
                 yield return new WaitForSeconds(speed);
             }
-
         }
         else Debug.Log("statement");
     }
